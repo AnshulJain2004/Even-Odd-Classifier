@@ -1,1 +1,1 @@
-# Even-Odd-Classifier
+# Even-Odd Classifier
